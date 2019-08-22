@@ -1,0 +1,25 @@
+{
+  "name": "recify",
+  "version": "1.0.0",
+  "description": "A recipe finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyklimavicius/Rectify.git"
+  },
+  "author": "Vytautas Klimavicius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vyklimavicius/Rectify/issues"
+  },
+  "homepage": "https://github.com/vyklimavicius/Rectify#readme",
+  "devDependencies": {
+    "webpack": "^4.39.2"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
