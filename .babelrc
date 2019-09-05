@@ -1,0 +1,16 @@
+{
+    "presets": [
+        // environment(like the target, browsers) 
+        [
+            "env",
+            {
+                "targets": {
+                    "browsers": [
+                        "last 5 versions",
+                        "ie >= 8"
+                    ]
+                }
+            }
+        ]
+    ]
+}
